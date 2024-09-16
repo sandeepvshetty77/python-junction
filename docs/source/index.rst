@@ -11,7 +11,7 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 
 ************************************************************************************************************************
-******************** THIS IS MAIN PAGE OF THE DOCUMENTATION. ADD INSTRUCTIONS HERE. ************
+         THIS IS MAIN PAGE OF THE DOCUMENTATION. ADD INSTRUCTIONS HERE... 
 ************************************************************************************************************************
 
 
